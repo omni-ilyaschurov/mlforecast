@@ -90,7 +90,7 @@ model training, evaluation and selection for multiple time series.
 
 🔎 [Probabilistic
 Forecasting](https://nixtla.github.io/mlforecast/docs/how-to-guides/prediction_intervals.html):
-use Conformal Prediction to produce prediciton intervals.
+use Conformal Prediction to produce prediction intervals.
 
 👩‍🔬 [Cross
 Validation](https://nixtla.github.io/mlforecast/docs/how-to-guides/cross_validation.html):
